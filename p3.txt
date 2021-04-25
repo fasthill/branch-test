@@ -1,3 +1,4 @@
+br2 add`
 br2 다시
 main story
 sub story
